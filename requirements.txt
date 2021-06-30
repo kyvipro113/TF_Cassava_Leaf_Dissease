@@ -1,0 +1,14 @@
+# pip install -r requirements.txt
+
+# base -----------------------------
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python
+opencv-contrib-python
+Pillow
+PyYAML
+PyQT5
+scipy>=1.4.1
+seaborn
+tensorflow-gpu
+keras
